@@ -1,0 +1,9 @@
+METHOD,URL,REQUEST,RESPONSE,REQUESTHEADERS,RESPONSEHEADERS,
+GET,http://localhost:3000/obj,null,GET-obj-response,null,null,
+GET,http://localhost:3000/array,null,GET-array-response,null,null,
+POST,http://localhost:3000/obj,POST-obj-request,POST-obj-response,null,null,
+POST,http://localhost:3000/array,POST-array-request,POST-array-response,null,null
+POST,http://localhost:3000/auth,null,POST-auth-response,POST-auth-request-headers,null,
+GET,http://localhost:3000/auth,null,GET-auth-response-success,null,null,
+PUT,http://localhost:3000/auth,null,PUT-auth-response,null,null,
+GET,http://localhost:3000/auth,null,GET-auth-response-failure,null,null

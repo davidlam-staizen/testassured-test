@@ -1,0 +1,17 @@
+{
+  "k1": "placeholder value",
+  "arr1": [
+    {
+      "id": 1,
+      "k2": "some val"
+    },
+    {
+      "id": 2,
+      "k2": "another val"
+    }
+  ],
+  "obj1": {
+    "simpleValue": 1,
+    "arr": [1,2,3,4,5]
+  }
+}
